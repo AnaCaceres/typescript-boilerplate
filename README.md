@@ -1,0 +1,1 @@
+This repository is meant to be a base of typescript projects.
